@@ -1,2 +1,2 @@
 # MachineLearning
-Proyectos y experimentos de Machine Learning
+Proyectos de Machine Learning
