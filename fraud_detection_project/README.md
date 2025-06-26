@@ -38,9 +38,9 @@ Un modelo capaz de identificar fraudes con alta precisión (Min 85%) y buen reca
 
 
 Reporte de Clasificación.  
-![alt text](images/image.png)
+![alt text](Images/image.png)
 
-![alt text](images/image-1.png)
+![alt text](Images/image-1.png)
 
 ## 🧪 Reproducibilidad
 
