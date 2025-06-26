@@ -32,9 +32,14 @@ Desarrollar una **Red Neuronal Artificial (RNA)** que:
   - `F1-score`
   - `ROC-AUC`
 
-## 📈 Resultados esperados
+## 📈 Resultados:
 
-Un modelo capaz de identificar fraudes con alta precisión y buen recall, útil para sistemas de monitoreo bancario en tiempo real.
+Un modelo capaz de identificar fraudes con alta precisión (Min 85%) y buen recall (85%) en Clase 1, útil para sistemas de monitoreo bancario en tiempo real.
+
+Reporte de Clasificación
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ## 🧪 Reproducibilidad
 
