@@ -1,0 +1,4 @@
+scikit-learn==1.5.2
+scikeras==0.13.0
+tensorflow==2.18.0
+keras==3.10.0
