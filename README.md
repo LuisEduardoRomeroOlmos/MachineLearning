@@ -11,7 +11,7 @@ Este repositorio reúne proyectos desarrollados con herramientas de ciencia de d
 
 ### 🌸 Clasificación de 102 Flores – Oxford Flowers Dataset
 **[App en Streamlit](https://clasificacion-flores.streamlit.app/)**
-- Entrenamiento de modelos CNN y Transfer Learning (MobileNetV2) alcanzando un **94% de accuracy**.**[Repositorio]([https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/flower_recognition_transfer_learning])**    
+- Entrenamiento de modelos CNN y Transfer Learning (MobileNetV2) alcanzando un **94% de accuracy**.**[Repositorio]([https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/flower_recognition_transfer_learning])**
 - Versión 2 con Vision Transformer (ViT) + Fine-Tuning con **99% de accuracy global**.**[Repositorio]([https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/flower_recognition_Transformer_Vit])**  
 - Aplicación interactiva con predicción en tiempo real, top-5 clases probables y descripción de flores con **Wikipedia API**.
 
