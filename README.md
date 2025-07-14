@@ -18,6 +18,7 @@ Este repositorio reúne proyectos desarrollados con herramientas de ciencia de d
 ---
 
 ### 💳 Detección de Fraude con Tarjetas de Crédito (Kaggle)
+**[Repositorio](https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/fraud_detection_project)**
 - Dataset desbalanceado: solo **0.17% de registros son fraude**.  
 - Reducción de dimensionalidad con **PCA**, selección de características con **Random Forest**.  
 - Entrenamiento de red neuronal MLP optimizada con **Optuna**.  
@@ -28,12 +29,22 @@ Este repositorio reúne proyectos desarrollados con herramientas de ciencia de d
 ---
 
 ### 🏠 Predicción de Precios de Casas (Kaggle)
+**[XGBoost](https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/house_prices_XGBoost)** | **[RED MLP](https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/house_prices_MLP)** | **[TabTransformer](https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/house_prices_TbTransformer)**
 - Flujo completo con **Pipeline de scikit-learn**, incluyendo:  
   - Imputación, escalado, codificación categórica, normalización.  
 - Estrategias comparadas:  
   - 🥇 PyCaret + Optuna → **XGBoost (R²: 90%)**  
   - 🧠 Red neuronal MLP + Optuna (R²: 85%)  
   - 🤖 Transformer TbTransformer con PyTorch Tabular (R²: 87.7%)
+
+
+---
+
+### 🐶 Clasificación de Razas de Perros (Transfer Learning)
+**[App en Streamlit](https://clasificacion-perros.streamlit.app/)** | **[Repositorio](https://github.com/LuisEduardoRomeroOlmos/MachineLearning/tree/main/dogs_recognition_multiclass_transfer_learning)**
+- Transfer Learning con **EfficientNetB3**, modelo ajustado para clasificación multiclase.  
+- Explicaciones visuales de predicciones con **Grad-CAM**.  
+- Proyecto desplegado con **Streamlit + FastAPI**.
 
 ---
 
@@ -42,12 +53,6 @@ Este repositorio reúne proyectos desarrollados con herramientas de ciencia de d
 - Aplicación en análisis de malware y detección de tasas.  
 - Mejora de detección en un **30%** y reducción de falsos positivos.
 
----
-
-### 🐶 Clasificación de Razas de Perros (Transfer Learning)
-- Transfer Learning con **EfficientNetB3**, modelo ajustado para clasificación multiclase.  
-- Explicaciones visuales de predicciones con **Grad-CAM**.  
-- Proyecto desplegado con **Streamlit + FastAPI**.
 
 ---
 
